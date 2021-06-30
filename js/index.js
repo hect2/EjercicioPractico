@@ -21,14 +21,14 @@ function drawTempPage() {
                               </div>
 
                               <div class="row">
-                                  <div class="col-12 col-md-6 col-lg-3" style="margin-bottom: 10px">
+                                  <div class="col-12 col-md-6 col-lg-4" style="margin-bottom: 10px">
                                         <div class="card">
                                             <div class="card-body">
                                                   <div class="row divContBar">
-                                                      <div class="col-5 col-md-3 titleList">
+                                                      <div class="col-5 col-md-4 titleList">
                                                           <span>Enviados</span>
                                                       </div>
-                                                      <div class="col-4 col-md-6">
+                                                      <div class="col-4 col-md-5">
                                                           <div class="progress-container progress-primary">
                                                               <div class="progress">
                                                                 <div class="progress-bar progress-bar-primary" style="width: 100%;"></div>
@@ -40,10 +40,10 @@ function drawTempPage() {
                                                       </div>
                                                   </div>
                                                   <div class="row divContBar">
-                                                      <div class="col-5 col-md-3 titleList">
+                                                      <div class="col-5 col-md-4 titleList">
                                                           <span>Recibidos</span>
                                                       </div>
-                                                      <div class="col-4 col-md-6">
+                                                      <div class="col-4 col-md-5">
                                                          <div class="progress">
                                                               <div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" ></div>
                                                          </div>
@@ -53,10 +53,10 @@ function drawTempPage() {
                                                       </div>
                                                   </div>
                                                   <div class="row divContBar">
-                                                      <div class="col-5 col-md-3 titleList">
+                                                      <div class="col-5 col-md-4 titleList">
                                                           <span>No Recibidos</span>
                                                       </div>
-                                                      <div class="col-4 col-md-6">
+                                                      <div class="col-4 col-md-5">
                                                          <div class="progress">
                                                               <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" ></div>
                                                          </div>
@@ -66,10 +66,10 @@ function drawTempPage() {
                                                       </div>
                                                   </div>
                                                   <div class="row divContBar">
-                                                      <div class="col-5 col-md-3 titleList">
+                                                      <div class="col-5 col-md-4 titleList">
                                                           <span>Respondidos</span>
                                                       </div>
-                                                      <div class="col-4 col-md-6">
+                                                      <div class="col-4 col-md-5">
                                                          <div class="progress">
                                                               <div class="progress-bar bg-warning" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" ></div>
                                                          </div>
@@ -79,10 +79,10 @@ function drawTempPage() {
                                                       </div>
                                                   </div>
                                                   <div class="row divContBar">
-                                                      <div class="col-6 col-md-5 titleListEfec">
+                                                      <div class="col-6 col-md-6 titleListEfec">
                                                           <span>Efectividad</span>
                                                       </div>
-                                                      <div class="col-1 col-md-4">
+                                                      <div class="col-1 col-md-3">
                                                         
                                                       </div>
                                                       <div class="titleListEfec">
@@ -96,7 +96,7 @@ function drawTempPage() {
                                       <div class="card">
                                           <div class="card-body">
                                               <div class="col-12 imageSend">
-                                                  <img src="./assets/icon/sent.svg" alt="Foto de Sacha">
+                                                  <img src="./assets/icon/sent.svg" alt="">
                                               </div>
                                               <div class="col-12 textSend">
                                                   <span class="card-title">Mensajes enviados</span>
@@ -111,7 +111,7 @@ function drawTempPage() {
                                       <div class="card">
                                           <div class="card-body">
                                               <div class="col-12 imageSend">
-                                                  <img src="./assets/icon/received.svg" alt="Foto de Sacha">
+                                                  <img src="./assets/icon/received.svg" alt="">
                                               </div>
                                               <div class="col-12 textRecib">
                                                   <span class="card-title">Mensajes recibidos</span>
@@ -126,10 +126,10 @@ function drawTempPage() {
                                       <div class="card">
                                           <div class="card-body">
                                               <div class="col-12 imageSend">
-                                                  <img src="./assets/icon/not_received.svg" alt="Foto de Sacha">
+                                                  <img src="./assets/icon/not_received.svg" alt="">
                                               </div>
                                               <div class="col-12 textNotRecib">
-                                                  <span class="card-title">Mensajes no recibidos</span>
+                                                  <span class="card-title" style="font-size: 14px">Mensajes no recibidos</span>
                                                   <div>
                                                       <span class="number">20 <span class="percentageNot">20%</span></span>
                                                   </div>
@@ -141,10 +141,10 @@ function drawTempPage() {
                                       <div class="card">
                                           <div class="card-body">
                                               <div class="col-12 imageSend">
-                                                  <img src="./assets/icon/answered.svg" alt="Foto de Sacha">
+                                                  <img src="./assets/icon/answered.svg" alt="">
                                               </div>
                                               <div class="col-12 textResp">
-                                                  <span class="card-title">Mensajes respondidos</span>
+                                                  <span class="card-title" style="font-size: 14px">Mensajes respondidos</span>
                                                   <div>
                                                       <span class="number">50 <span class="percentageResp">50%</span></span>
                                                   </div>
@@ -155,24 +155,26 @@ function drawTempPage() {
                               </div>
                         </div>
                     </section>
-                    <div id="tableList" class="col-12">
-                        <div class="table-responsive">
-                            <h3>Lista de mensajes</h3>
-                            <table class="table" id="tbaleList" style="width: 100%">
-                                <thead>
-                                <tr>
-                                    <th>Titulo</th>
-                                    <th>Etiquetas</th>
-                                    <th>Fecha de creacion</th>
-                                    <th>Estado</th>
-                                    <th>Efectividad</th>
-                                    <th>Acciones</th>
-                                </tr>
-                                </thead>
-                                <tbody id="ctnTbody"></tbody>
-                            </table>
-                        </div>
-                    </div>          
+                    <section style="padding: 20px">
+                        <div id="tableList" class="col-12">
+                            <div class="table-responsive">
+                                <h3>Lista de mensajes</h3>
+                                <table class="table" id="tbaleList" style="width: 100%">
+                                    <thead>
+                                    <tr>
+                                        <th>Titulo</th>
+                                        <th>Etiquetas</th>
+                                        <th>Fecha de creacion</th>
+                                        <th>Estado</th>
+                                        <th>Efectividad</th>
+                                        <th>Acciones</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody id="ctnTbody"></tbody>
+                                </table>
+                            </div>
+                        </div>   
+                    </section>       
               </div>`;
   test.innerHTML = temp;
   drawDescriptionTable();
