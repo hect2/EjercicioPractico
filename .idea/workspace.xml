@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ae8fec-fee6-4cb5-a4a0-6ddb5ef93b6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1uPumwmuN55KmKDzuH5cJvVZVDO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\prueba web" />
+      <recent name="D:\prueba web\assets\icon" />
+      <recent name="D:\micv\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\prueba web\js" />
+      <recent name="D:\prueba web\assets" />
+      <recent name="D:\prueba web" />
+      <recent name="D:\prueba web\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ae8fec-fee6-4cb5-a4a0-6ddb5ef93b6d" name="Default Changelist" comment="" />
+      <created>1624579707941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624579707941</updated>
+      <workItem from="1624579709118" duration="906000" />
+      <workItem from="1624580633809" duration="1818000" />
+      <workItem from="1624582476692" duration="3508000" />
+      <workItem from="1624587882793" duration="697000" />
+      <workItem from="1625007304694" duration="290000" />
+      <workItem from="1625008371086" duration="587000" />
+      <workItem from="1625008981787" duration="1815000" />
+      <workItem from="1625010836384" duration="1779000" />
+      <workItem from="1625012645578" duration="1779000" />
+      <workItem from="1625014463017" duration="1778000" />
+      <workItem from="1625016273046" duration="1841000" />
+      <workItem from="1625018149205" duration="1776000" />
+      <workItem from="1625019959766" duration="1778000" />
+      <workItem from="1625022447825" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,84 @@
+
+#footer {
+  background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+
+#footer a {
+  color: white;
+}
+.contentSection{
+  border-bottom: 1px solid;
+  margin-bottom: 82px;
+  padding: 10px;
+}
+.buttonAddMesaje{
+  background: #F76D4D !important;
+  border: none;
+  color: white;
+}
+.divBtn{
+  margin-bottom: 15px;
+}
+.titleList{
+  margin-top: -12px;
+  font-size: 12px;
+  color: black;
+}
+.titleListEfec{
+  margin-top: -12px;
+  font-size: 20px;
+  color: black;
+}
+.divContBar{
+  margin-bottom: 10px;
+}
+.progress{
+  height: 2px !important;
+}
+.card-body{
+  background: #efefef;
+}
+.imageSend{
+  text-align: center;
+}
+.imageSend img {
+  width: 15%;
+}
+.textSend{
+  border-left: 2px solid #3cdcff;
+}
+.textSend span{
+  color: black;
+}
+.textRecib{
+  border-left: 2px solid #28a745;
+}
+.percentage{
+  color: #28a745;
+  font-size: 13px;
+  font-weight: normal;
+}
+.number{
+  font-weight: bold;
+  font-size: 20px;
+}
+.textNotRecib{
+  border-left: 2px solid #dc3545;
+}
+.percentageNot{
+  color: #dc3545;
+  font-size: 13px;
+  font-weight: normal;
+}
+.textResp{
+  border-left: 2px solid #DAA520;
+}
+.percentageResp{
+  color: #DAA520;
+  font-size: 13px;
+  font-weight: normal;
+}
+#tableList{
+  margin-bottom: 44px;
+}
+
